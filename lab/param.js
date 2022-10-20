@@ -33,7 +33,7 @@ const FONT_FAMILY_LIST = [
 ];
 
 const APP_DEFAULT_MODE = 'HEX';
-const APP_DEFAULT_LIST = 'Momcode-230A (Font Awesome)';
+const APP_DEFAULT_LIST = 'ShapeAddress FA 330 Colorblind';
 
 
 const ABSENT_SYMBOL_CHAR = '\u2639';
